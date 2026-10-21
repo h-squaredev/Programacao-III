@@ -1,0 +1,10 @@
+Lucas pratica: corrida, natação e ciclismo.
+Lucas está nadando.
+Lucas está pedalando.
+Lucas está correndo.
+
+Fernanda pratica: corrida, natação e ciclismo.
+Fernanda está nadando.
+Fernanda está pedalando.
+Fernanda está correndo.
+
