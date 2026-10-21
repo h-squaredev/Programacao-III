@@ -1,0 +1,39 @@
+=== Informações dos atletas ===
+Nome: Rafael
+Idade: 28
+Nível: PROFISSIONAL
+Modalidades: corrida
+
+Nome: Camila
+Idade: 22
+Nível: AMADOR
+Modalidades: natação
+
+Nome: Lucas
+Idade: 31
+Nível: PROFISSIONAL
+Modalidades: corrida, natação e ciclismo
+
+Nome: Fernanda
+Idade: 19
+Nível: NOVATO
+Modalidades: corrida, natação e ciclismo
+
+=== Executando modalidades via interfaces ===
+Rafael está correndo.
+Camila está nadando.
+Lucas está correndo.
+Lucas está nadando.
+Lucas está pedalando.
+Fernanda está correndo.
+Fernanda está nadando.
+Fernanda está pedalando.
+
+=== Mesma classe, várias interfaces (Triatleta) ===
+Lucas está correndo.
+Lucas está nadando.
+Lucas está pedalando.
+
+=== Testando validações ===
+Erro: A idade não pode ser negativa.
+Erro: O nome não pode ser vazio.
