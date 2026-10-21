@@ -1,0 +1,13 @@
+=== Situação dos pedidos ===
+Pedido #101 (R$ 89,90) - AGUARDANDO_PAGAMENTO: Aguardando a confirmação do pagamento.
+Pedido #102 (R$ 450,00) - PAGO: Pagamento confirmado. Preparando o pedido.
+Pedido #103 (R$ 32,50) - ENVIADO: Pedido enviado. Já está a caminho!
+Pedido #104 (R$ 1200,00) - ENTREGUE: Pedido entregue ao cliente.
+Pedido #105 (R$ 15,00) - CANCELADO: Pedido cancelado.
+
+=== Switch no programa principal ===
+Pedido 101: lembrar o cliente de pagar.
+Pedido 102: liberar para separação no estoque.
+Pedido 103: enviar código de rastreio.
+Pedido 104: solicitar avaliação da compra.
+Pedido 105: nenhuma ação necessária.
