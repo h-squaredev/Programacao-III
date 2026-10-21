@@ -1,0 +1,8 @@
+Informe o valor da comissão do funcionário comissionado: R$ 850
+=== Salários calculados ===
+Matrícula 1001 - Carlos
+  Salário-base: R$ 3000,00
+  Salário final: R$ 3300,00
+Matrícula 1002 - Marina
+  Salário-base: R$ 2500,00
+  Salário final: R$ 3350,00
