@@ -1,0 +1,9 @@
+=== Processando pagamentos ===
+Pagamento de R$ 250,00 aprovado no cartão de crédito.
+Pix de R$ 250,00 confirmado instantaneamente.
+Boleto de R$ 250,00 gerado. Aguardando compensação em até 3 dias úteis.
+
+=== Cancelando pagamentos ===
+Compra no cartão cancelada. O estorno aparecerá na próxima fatura.
+Pix devolvido ao pagador em até alguns minutos.
+Boleto cancelado. O código de barras não pode mais ser pago.
