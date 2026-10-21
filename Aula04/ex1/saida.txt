@@ -1,0 +1,15 @@
+=== Operações válidas ===
+Depósito de R$ 200,00 realizado na conta corrente de Ana
+Saque de R$ 100,00 realizado na conta corrente de Ana (taxa: R$ 1,00)
+Depósito de R$ 50,00 realizado na poupança de Bruno
+Saque de R$ 150,00 realizado na poupança de Bruno
+
+=== Saques inválidos ===
+Saque de R$ 1000,00 negado na conta corrente de Ana (saldo: R$ 599,00, taxa: R$ 1,00)
+Saque de R$ 599,50 negado na conta corrente de Ana (saldo: R$ 599,00, taxa: R$ 1,00)
+Saque de R$ 500,00 negado na poupança de Bruno (saldo: R$ 200,00)
+Saque de R$ -10,00 negado na poupança de Bruno (saldo: R$ 200,00)
+
+=== Saldos finais ===
+Ana (corrente): R$ 599,00
+Bruno (poupança): R$ 200,00
